@@ -1,5 +1,4 @@
-
-![data-analytics-portada](https://github.com/davidguzmansa/davidguzmansa/assets/117094361/8d4ad67a-2572-4799-9800-57cf3bc1050f)
+![data-analytics-portada](https://github.com/davidguzmansa/davidguzmansa/assets/117094361/985e08d5-9303-4454-88e2-60d48a9b15bf)
 
 ### Hi there 👋
 

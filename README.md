@@ -29,7 +29,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 <h2  align="center">📫 Contacto ⬇️</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/davidguzmansa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:davidguzmansal@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:davidguzmansal@gmail.com?subject="><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>

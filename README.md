@@ -16,7 +16,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 <hr>
 
-<h2 align="center"> 🔭 Herramientas</h2>
+<h2 align="center"> 🔭 Herramientas 📚</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI--F2C811?style=for-the-badge&logo=PowerBI" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sql--4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;

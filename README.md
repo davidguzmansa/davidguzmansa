@@ -2,17 +2,19 @@
 
 <h1 align="center"> Hey! 👋</h1>
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hola! 👋, mi nombre es **David Guzmán**. Con gran entusiasmo por el mundo del análisis de datos, me considero una persona proactiva, meticulosa y apasionada por los desafíos. 
+
+Poseo habilidad analítica, que me impulsa a desentrañar patrones y tendencias ocultas en los datos, siempre en búsqueda de información valiosa que genere un impacto positivo.
+
+Mi trayectoria me ha permitido aplicar mis habilidades con herramientas como **SQL**, **Excel** y **Power BI** de manera efectiva y creativa. Gracias a esta experiencia, he adquirido destreza en la manipulación y limpieza de datos, así como en la creación de informes y visualizaciones claras y concisas.
 
 <hr>
 
-🔭 I’m currently working on a social media web app with Django
+🔭 Actualmente me encuentro en constante aprendizaje para profundizar en mi conocimientos.
 
-👨‍💻 All of my projects are available at my web
+📫 Me pueden contactar vía e-mail davidguzmansal@gmail.com
 
-📫 How to reach me davidguzmansal@gmail.com
-
-📄 Know more about me and my experiences by downloading my resume
+📄 Conoce más sobre mí y mis experiencias descargando mi CV.
 
 <hr>
 

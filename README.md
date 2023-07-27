@@ -14,7 +14,7 @@ Mi trayectoria me ha permitido aplicar mis habilidades con herramientas como **S
 
 📫 Me pueden contactar vía e-mail davidguzmansal@gmail.com
 
-📄 Conoce más sobre mí y mis experiencias descargando mi CV.
+📄 Conoce más sobre mí y mis experiencias visitando mi perfil de LinkedIn.
 
 <hr>
 
